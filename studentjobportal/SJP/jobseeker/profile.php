@@ -8,13 +8,13 @@
 <title>Student Job Portal</title>
 <meta name="description" content="Student Job Portal is the no1 job portal in Mauritius where jobseekers can search for vacancies/jobs in Mauritius or abroad posted by registered employers.">
 
-<link media="all" rel="stylesheet" type="text/css" href="https://www.mauritiusjobs.mu/css/reset.css"/>
-<link media="all" rel="stylesheet" type="text/css" href="https://www.mauritiusjobs.mu/css/page.css?1548829026"/>
-<link media="all" rel="stylesheet" type="text/css" href="https://www.mauritiusjobs.mu/css/menu.css?1548829026"/>
+<link media="all" rel="stylesheet" type="text/css" href="https://www.mauuritiusjobs.mu.mu/css/reset.css"/>
+<link media="all" rel="stylesheet" type="text/css" href="https://www.mauuritiusjobs.mu.mu/css/page.css?1548829026"/>
+<link media="all" rel="stylesheet" type="text/css" href="https://www.mauuritiusjobs.mu.mu/css/menu.css?1548829026"/>
 <script src="https://code.jquery.com/jquery-1.9.1.js"></script>
 <script src="https://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
-<script type="text/javascript" src="https://www.mauritiusjobs.mu/js/menu.js"></script>
-<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-50481647-1','mauritiusjobs.mu');ga('send','pageview');</script>
+<script type="text/javascript" src="https://www.mauuritiusjobs.mu.mu/js/menu.js"></script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-50481647-1','mauuritiusjobs.mu.mu');ga('send','pageview');</script>
 <script language="JavaScript" type="text/javascript">if(navigator.appName=='Microsoft Internet Explorer'){function NOclickIE(e){if(event.button==2||event.button==3){return false;}return true;}document.onmousedown=NOclickIE;document.onmouseup=NOclickIE;window.onmousedown=NOclickIE;window.onmouseup=NOclickIE;}
 else{function NOclickNN(e){if(document.layers||document.getElementById&&!document.all){if(e.which==2||e.which==3){return false;}}}if(document.layers){document.captureEvents(Event.MOUSEDOWN);document.onmousedown=NOclickNN;}document.oncontextmenu=new Function("return false")}</script>
  	</head>
@@ -31,10 +31,7 @@ else{function NOclickNN(e){if(document.layers||document.getElementById&&!documen
 		<div id="user_top"></div>
 		<div id="header">
 		<div id="banner">
-			<img src="https://www.mauritiusjobs.mu/images/mauritius_flag.gif" id="mauritius_flag">
-			<img src="https://www.mauritiusjobs.mu/images/govt.png">
-			<img src="https://www.mauritiusjobs.mu/images/jobs_logo.png" id="jobs_logo">
-			<br>Ministry of Labour, Industrial Relations, Employment and Training
+			
 		</div>
 	<div class="menu">
 		<nav id="topNav">
@@ -42,20 +39,20 @@ else{function NOclickNN(e){if(document.layers||document.getElementById&&!documen
 				<li class="first"><a href="../index.php" title="Home">Home</a></li>
 				<li><a href="../about/iom.html" title="About Us">About Us</a>
 					<!-- <ul>
-						<li><a href="http://www.mauritiusjobs.mu/about/mlire" title="About MLIRE">Ministry of Labour, Industrial Relations, Employment and Training</a></li>
-						<li><a href="http://www.mauritiusjobs.mu/about/iom" title="About IOM">International Organisation for Migration</a></li>
+						<li><a href="http://www.mauuritiusjobs.mu.mu/about/mlire" title="About MLIRE">Ministry of Labour, Industrial Relations, Employment and Training</a></li>
+						<li><a href="http://www.mauuritiusjobs.mu.mu/about/iom" title="About IOM">International Organisation for Migration</a></li>
 					</ul> -->
 				</li>
 				
-				<li>					<a href="https://www.mauritiusjobs.mu/jobseeker/profile" title="Jobseeker Profile">Jobseeker</a>
+				<li>					<a href="jobseeker/profile.php" title="Jobseeker Profile">Jobseeker</a>
 														<!-- <ul>
-						<li><a href="https://www.mauritiusjobs.mu/jobseeker/edit/profile" title="Edit Profile">Edit Profile</a></li>
-						<li><a href="https://www.mauritiusjobs.mu/jobseeker/documents" title="Upload CV and other documents">Upload CV and other documents</a></li>
-						<li><a href="https://www.mauritiusjobs.mu/jobseeker/application_status" title="View status of my applications">View status of my applications</a></li>
-						<li><a href="https://www.mauritiusjobs.mu/jobsearch" title="Jobs Search">Jobs Search</a></li>
-												<li><a href="http://www.mauritiusjobs.mu/jobseeker/faqs" title="FAQs">FAQs</a></li>
-						<li><a href="http://www.mauritiusjobs.mu/tips" title="Tips">Tips</a></li>
-						<li class="unsubscribe"><a href="http://www.mauritiusjobs.mu/jobseeker/unsubscribe" title="Unsubscribe">Unsubscribe</a></li>
+						<li><a href="https://www.mauuritiusjobs.mu.mu/jobseeker/edit/profile" title="Edit Profile">Edit Profile</a></li>
+						<li><a href="https://www.mauuritiusjobs.mu.mu/jobseeker/documents" title="Upload CV and other documents">Upload CV and other documents</a></li>
+						<li><a href="https://www.mauuritiusjobs.mu.mu/jobseeker/application_status" title="View status of my applications">View status of my applications</a></li>
+						<li><a href="https://www.mauuritiusjobs.mu.mu/jobsearch" title="Jobs Search">Jobs Search</a></li>
+												<li><a href="http://www.mauuritiusjobs.mu.mu/jobseeker/faqs" title="FAQs">FAQs</a></li>
+						<li><a href="http://www.mauuritiusjobs.mu.mu/tips" title="Tips">Tips</a></li>
+						<li class="unsubscribe"><a href="http://www.mauuritiusjobs.mu.mu/jobseeker/unsubscribe" title="Unsubscribe">Unsubscribe</a></li>
 					</ul> -->
 					        
 				</li>
@@ -105,36 +102,22 @@ document.getElementById('tips').onclick=function()
 
 <div id="footer">
 	<div id="links">
-		<a href="http://www.mauritiusjobs.mu/feedback" title="Feedback Form">Feedback Form</a>
-		<a href="http://www.mauritiusjobs.mu/website_map" title="Website Map">Website Map</a>
-		<a href="http://www.mauritiusjobs.mu/eic_locations" title="EIC Location">EIC Location</a>
-		<a href="http://www.mauritiusjobs.mu/faq" title="FAQ">FAQ</a>
-		<a href="http://www.mauritiusjobs.mu/legislations" title="Legislations">Legislations</a>
-		<a href="http://www.mauritiusjobs.mu/downloads" title="Downloads">Downloads</a>
-		<a href="http://www.mauritiusjobs.mu/publications" title="Publications">Publications</a>
-		<a href="http://www.mauritiusjobs.mu/statistics" title="Statistics">Statistics</a>
-		<a href="http://www.mauritiusjobs.mu/links" title="Links">Links</a>
-		<a href="http://www.mauritiusjobs.mu/tips" title="Tips">Tips</a>
+		<a href="#" title="Feedback Form">Feedback Form</a>
+		<a href="#" title="Website Map">Website Map</a>
+		<a href="#" title="EIC Location">EIC Location</a>
+		<a href="#" title="FAQ">FAQ</a>
+		<a href="#" title="Legislations">Legislations</a>
+		<a href="#" title="Downloads">Downloads</a>
+		<a href="#" title="Publications">Publications</a>
+		<a href="#" title="Statistics">Statistics</a>
+		<a href="#" title="Links">Links</a>
+		<a href="#" title="Tips">Tips</a>
 	</div>
-	<div id="logo">
-		<div class="european_logo">
-			<a href="http://www.eeas.europa.eu/delegations/mauritius/index_en.htm" target="blank"><img src="https://www.mauritiusjobs.mu/images/european.gif" width="75" height="50" title="European Union"></a><br>
-			This project is co-funded by the European Union
-		</div>
-		<div class="italian_logo">
-			<a href="http://www.lavoro.gov.it" target="blank"><img src="https://www.mauritiusjobs.mu/images/italiana.png" width="65" height="55" title="Ministero Del Lavoro e Delle Politiche Sociali"></a><br>
-			Ministero Del Lavoro e Delle Politiche Sociali
-		</div>
-		<div class="iom_logo">
-			<a href="http://www.iom.int" target="blank"><img src="https://www.mauritiusjobs.mu/images/iom-logo.png" width="56" height="55" title="International Organisation for Migration"></a><br>
-			International Organisation for Migration (IOM)
-		</div>
-	</div>
+	
 	<div id="copyright">
-		&copy; Copyright Mauritius Jobs. 2019. All rights reserved.
+		&copy; Copyright mauuritiusjobs.mu. 2019. All rights reserved.
 	</div>
-	<span id="developed_by_reefcube">Designed & Developed by <a href="http://www.reefcube.mu" target="_blank">Reefcube Ltd</a></span>
-	<span id="ssl"><img src="https://www.mauritiusjobs.mu/images/ssl.png" width="20"> <span class='ssl_txt'>SSL Certified</span></span>
+	
 	<span id="browser">
 		<span id="browser_txt">Compatible on latest </span>
 		<img src="https://www.mauritiusjobs.mu/images/chrome.ico" width="20" style="width: 21px;position: relative;margin-top: 0px;height: 23px;top: 2px;" title="Google Chrome">

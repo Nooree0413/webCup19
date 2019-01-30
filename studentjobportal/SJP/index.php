@@ -8,7 +8,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <title>Student Job Portal</title>
-<meta name="description" content="Mauritiusjobs is the no1 job portal in Mauritius where jobseekers can search for vacancies/jobs in Mauritius or abroad posted by registered employers.">
+<meta name="description" content="Student Job Portal is the no1 job portal in Mauritius where jobseekers can search for vacancies/jobs in Mauritius or abroad posted by registered employers.">
 
 <link media="all" rel="stylesheet" type="text/css" href="css/reset.css"/>
 <link media="all" rel="stylesheet" type="text/css" href="css/page1d75.css?1548684256"/>
@@ -136,10 +136,7 @@ else
 		</tr>
 		<tr>
 		
-		<td><img src="images/local.png" class="map"><span class="show-local">Show local jobs only</span> <input type="checkbox" name="search_by_local" value="1"></td>
-		<td height="50"><img src="images/world.png" class="map"><span class="show-international">Show International Jobs Only</span> <input type="checkbox" name="search_by_international" value="1"></td>
 		
-		<td><a href="jobsearch.html" title="Advance Job Search"><b>ADVANCED SEARCH +</b></a></td>
 		</tr>
 		</table>
 		</form>	</div><div class="search-optimise">... promoting and sustaining decent work</div><div class="content">
