@@ -23,7 +23,7 @@ if (!$conn) {
 	// $email = mysql_real_escape_string($email);
 	// $password = mysql_real_escape_string($password);
 	
-	$query = "SELECT * FROM login WHERE email = '$email' AND password = '$password';";
+	$query = "SELECT * FROM registration WHERE email = '$email' AND Hash_Password = '$password';";
 	$result = mysqli_query($conn, $query) or die ("Failed to query database" . mysqli_connect_error());
 
 	if (mysqli_num_rows($result) > 0) {
