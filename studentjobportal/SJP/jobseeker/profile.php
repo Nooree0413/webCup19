@@ -6,7 +6,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <title>Student Job Portal</title>
-<meta name="description" content="Mauritiusjobs is the no1 job portal in Mauritius where jobseekers can search for vacancies/jobs in Mauritius or abroad posted by registered employers.">
+<meta name="description" content="Student Job Portal is the no1 job portal in Mauritius where jobseekers can search for vacancies/jobs in Mauritius or abroad posted by registered employers.">
 
 <link media="all" rel="stylesheet" type="text/css" href="https://www.mauritiusjobs.mu/css/reset.css"/>
 <link media="all" rel="stylesheet" type="text/css" href="https://www.mauritiusjobs.mu/css/page.css?1548829026"/>
@@ -24,7 +24,7 @@ else{function NOclickNN(e){if(document.layers||document.getElementById&&!documen
 			  echo '"YOU ARE LOGGED IN"';
 				echo '<div id="user_menu">
 			You are logged in
-			<a href="http://www.mauritiusjobs.mu/logout" class="logout" title="Sign Out">SIGN OUT</a>
+			<a href="../logOut.php" class="logout" title="Sign Out">Log Out</a>
 		</div>';
 	}
 		?>

@@ -935,7 +935,7 @@ Works well without supervision</p></td>
 	</td></tr>
 	
 		</table>
-	<input type="button" value="CLICK TO LOAD MORE VACANCIES" class="load_more" title="CLICK TO LOAD MORE VACANCIES"><input id="pages" type="hidden" value="57">	<div id="loading_spinner"></div>
+	
 </div>
 
 <div id="popup_content" class="popup_content" style="-webkit-touch-callout: none;-webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;" unselectable="on"></div>
@@ -1001,9 +1001,7 @@ Works well without supervision</p></td>
 				<a href="registration.html" title="Create Jobseeker Account">REGISTER AS JOBSEEKER</a><br><br>
 				<a href="registration.html" title="Create Employer Account">REGISTER AS EMPLOYER</a>
 			</div>
-			</div><div class="clear"></div>
-		</div>	</div>
-</div>';
+			</div';
 		}
 			?>
 			<!-- <form action="processLogin.php" name="login_page" method="post" accept-charset="utf-8">			<div class="sidebar-login-text">
@@ -1048,8 +1046,8 @@ Works well without supervision</p></td>
 			</div> -->
 						
 			<div class="clear"></div>
-		</div>	</div>
-</div>
+		<!-- </div>	</div>
+</div> -->
 
 	<div class="sidebar-box">
 		<div class="sidebar-box-top featured">
