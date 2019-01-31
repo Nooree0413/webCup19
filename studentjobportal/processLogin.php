@@ -1,4 +1,4 @@
-<?php
+.<?php
 	//Opens up template to set up a connection and use database
 	$servername = "localhost";
 $username = "root";

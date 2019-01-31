@@ -2,9 +2,10 @@
  session_start();
 ?>
 <?php
-$CPE_result=$CPE_year=$work_exp_date_from=$work_exp_date_to=$work_exp_position=$work_exp_employer_name=$work_exp_sector=$work_exp_desc=$cv=$covering_letter=$scanned_id_card=$morality_certificate=$sc_id=$hsc_id=$tertiary_id="";
+$Nic_num=$Surname=$First_name=$Maiden_name=$Marital_status=$Gender=$DOB=$Telephone_num=$Mobile_num=$Address=$Country=$District=$Town_Village=$Postal_code=$Email=$Hashed_password=$Past_background=$Disability=$Passport_num=$Passport_exp_date=$Languages=$Preferred_job_occupation=$Preferred_economic_sector=$Driving_license=$CPE_result=$CPE_year=$work_exp_date_from=$work_exp_date_to=$work_exp_position=$work_exp_employer_name=$work_exp_sector=$work_exp_desc=$cv=$covering_letter=$scanned_id_card=$morality_certificate=$sc_id=$hsc_id=$tertiary_id="";
 
 ?>
+  
 <html lang="en" class=" canvas canvastext geolocation rgba hsla multiplebgs borderimage borderradius boxshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions  video audio localstorage sessionstorage webworkers no-applicationcache fontface"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Mauritius Jobs</title>
@@ -24,7 +25,7 @@ else{function NOclickNN(e){if(document.layers||document.getElementById&&!documen
 			<div id="header">
 		<div id="banner">
 			<script pagespeed_no_defer="" type="text/javascript">//<![CDATA[
-(function(){var g=this,h=function(b,d){var a=b.split("."),c=g;a[0]in c||!c.execScript||c.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===d?c[e]?c=c[e]:c=c[e]={}:c[e]=d};var l=function(b){var d=b.length;if(0<d){for(var a=Array(d),c=0;c<d;c++)a[c]=b[c];return a}return[]};var m=function(b){var d=window;if(d.addEventListener)d.addEventListener("load",b,!1);else if(d.attachEvent)d.attachEvent("onload",b);else{var a=d.onload;d.onload=function(){b.call(this);a&&a.call(this)}}};var n,p=function(b,d,a,c,e){this.f=b;this.h=d;this.i=a;this.c=e;this.e={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.g=c;this.b={};this.a=[];this.d={}},q=function(b,d){var a,c,e=d.getAttribute("pagespeed_url_hash");if(a=e&&!(e in b.d))if(0>=d.offsetWidth&&0>=d.offsetHeight)a=!1;else{c=d.getBoundingClientRect();var f=document.body;a=c.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);c=c.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+c;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.e.height&&c<=b.e.width)}a&&(b.a.push(e),b.d[e]=!0)};p.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&q(this,b)};h("pagespeed.CriticalImages.checkImageForCriticality",function(b){n.checkImageForCriticality(b)});h("pagespeed.CriticalImages.checkCriticalImages",function(){r(n)});var r=function(b){b.b={};for(var d=["IMG","INPUT"],a=[],c=0;c<d.length;++c)a=a.concat(l(document.getElementsByTagName(d[c])));if(0!=a.length&&a[0].getBoundingClientRect){for(c=0;d=a[c];++c)q(b,d);a="oh="+b.i;b.c&&(a+="&n="+b.c);if(d=0!=b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),c=1;c<b.a.length;++c){var e=","+encodeURIComponent(b.a[c]);131072>=a.length+e.length&&(a+=e)}b.g&&(e="&rd="+encodeURIComponent(JSON.stringify(s())),131072>=a.length+e.length&&(a+=e),d=!0);t=a;if(d){c=b.f;b=b.h;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(k){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(u){}}f&&(f.open("POST",c+(-1==c.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}},s=function(){var b={},d=document.getElementsByTagName("IMG");if(0==d.length)return{};var a=d[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var c=0;a=d[c];++c){var e=a.getAttribute("pagespeed_url_hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].k&&a.height>=b[e].j)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b},t="";h("pagespeed.CriticalImages.getBeaconData",function(){return t});h("pagespeed.CriticalImages.Run",function(b,d,a,c,e,f){var k=new p(b,d,a,e,f);n=k;c&&m(function(){window.setTimeout(function(){r(k)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','http://www.mauritiusjobs.mu/jobseeker/registration/academic','YddRYU7ik1',true,false,'9-bRH37fOG8');
+(function(){var g=this,h=function(b,d){var a=b.split("."),c=g;a[0]in c||!c.execScript||c.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===d?c[e]?c=c[e]:c=c[e]={}:c[e]=d};var l=function(b){var d=b.length;if(0<d){for(var a=Array(d),c=0;c<d;c++)a[c]=b[c];return a}return[]};var m=function(b){var d=window;if(d.addEventListener)d.addEventListener("load",b,!1);else if(d.attachEvent)d.attachEvent("onload",b);else{var a=d.onload;d.onload=function(){b.call(this);a&&a.call(this)}}};var n,p=function(b,d,a,c,e){this.f=b;this.h=d;this.i=a;this.c=e;this.e={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.g=c;this.b={};this.a=[];this.d={}},q=function(b,d){var a,c,e=d.getAttribute("pagespeed_url_hash");if(a=e&&!(e in b.d))if(0>=d.offsetWidth&&0>=d.offsetHeight)a=!1;else{c=d.getBoundingClientRect();var f=document.body;a=c.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);c=c.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+c;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.e.height&&c<=b.e.width)}a&&(b.a.push(e),b.d[e]=!0)};p.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&q(this,b)};h("pagespeed.CriticalImages.checkImageForCriticality",function(b){n.checkImageForCriticality(b)});h("pagespeed.CriticalImages.checkCriticalImages",function(){r(n)});var r=function(b){b.b={};for(var d=["IMG","INPUT"],a=[],c=0;c<d.length;++c)a=a.concat(l(document.getElementsByTagName(d[c])));if(0!=a.length&&a[0].getBoundingClientRect){for(c=0;d=a[c];++c)q(b,d);a="oh="+b.i;b.c&&(a+="&n="+b.c);if(d=0!=b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),c=1;c<b.a.length;++c){var e=","+encodeURIComponent(b.a[c]);131072>=a.length+e.length&&(a+=e)}b.g&&(e="&rd="+encodeURIComponent(JSON.stringify(s())),131072>=a.length+e.length&&(a+=e),d=!0);t=a;if(d){c=b.f;b=b.h;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(k){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(u){}}f&&(f.open("POST",c+(-1==c.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}},s=function(){var b={},d=document.getElementsByTagName("IMG");if(0==d.length)return{};var a=d[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var c=0;a=d[c];++c){var e=a.getAttribute("pagespeed_url_hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].k&&a.height>=b[e].j)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b},t="";h("pagespeed.CriticalImages.getBeaconData",function(){return t});h("pagespeed.CriticalImages.Run",function(b,d,a,c,e,f){var k=new p(b,d,a,e,f);n=k;c&&m(function(){window.setTimeout(function(){r(k)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','http://www.mauritiusjobs.mu/jobseeker/registration/secondary','YddRYU7ik1',true,false,'eV1ou40_YZU');
 //]]></script><img src="https://www.mauritiusjobs.mu/images/mauritius_flag.gif" id="mauritius_flag" pagespeed_url_hash="2557509605" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
 			<img src="https://www.mauritiusjobs.mu/images/govt.png" pagespeed_url_hash="2827431000" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
 			<img src="https://www.mauritiusjobs.mu/images/jobs_logo.png" id="jobs_logo" pagespeed_url_hash="2679461340" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
@@ -35,7 +36,7 @@ else{function NOclickNN(e){if(document.layers||document.getElementById&&!documen
 			<ul>
 				<li class="first"><a href="https://www.mauritiusjobs.mu/" title="Home">Home</a></li>
 				<li><a href="#" title="About Us">About Us<span>^</span></a>
-					<ul style="display: none;">
+					<ul>
 						<li><a href="http://www.mauritiusjobs.mu/about/mlire" title="About MLIRE">Ministry of Labour, Industrial Relations, Employment and Training</a></li>
 						<li><a href="http://www.mauritiusjobs.mu/about/iom" title="About IOM">International Organisation for Migration</a></li>
 					</ul>
@@ -70,7 +71,7 @@ else{function NOclickNN(e){if(document.layers||document.getElementById&&!documen
 		<div class="step-light-right">&nbsp;</div>
 		
 		<div class="step-no">4</div>
-		<div class="step-dark-left" title="Academic Qualification">Academic</div>
+		<div class="step-dark-left" title="Academic Qualification"><a href="academic">Academic</a></div>
 		<div class="step-dark-right">&nbsp;</div>
 		
 		<div class="step-no-off">5</div>
@@ -86,112 +87,16 @@ else{function NOclickNN(e){if(document.layers||document.getElementById&&!documen
 		<div class="step-light-round">&nbsp;</div>
 		<div class="clear"></div>
 	</div>
-	<form id="registration" method="POST" action="academicPart2.php"
-	
+		<table class="jobseeker_registration">
+	<form id="registration" method="POST" action="exp.php">
+
+	<tbody><tr><td><span class="note"><label>UPPER SECONDARY</label></span></td></tr>
 	<tr><td>
-	<span class="note"><label>PRIMARY</label></span>
-	</td></tr>
-	<tr>
-	<td colspan="2">
 		<table>
-		<tbody><tr>
-		<td colspan="2" class="academic_level">
-			<label>CPE<br></label>		</td>
-		</tr><tr><td class="academic_result">
-			<input type="radio" name="jobseeker_cpe_result" value="P"><span class="pass">Pass</span>
-			<input type="radio" name="jobseeker_cpe_result" value="F"><span class="fail">Fail</span>
-			</td><td>
-			YEAR :
-			<select name="jobseeker_cpe_year" class="select-box-year"><option value="">Year</option>
-							<option value="1950">1950</option>
-							<option value="1951">1951</option>
-							<option value="1952">1952</option>
-							<option value="1953">1953</option>
-							<option value="1954">1954</option>
-							<option value="1955">1955</option>
-							<option value="1956">1956</option>
-							<option value="1957">1957</option>
-							<option value="1958">1958</option>
-							<option value="1959">1959</option>
-							<option value="1960">1960</option>
-							<option value="1961">1961</option>
-							<option value="1962">1962</option>
-							<option value="1963">1963</option>
-							<option value="1964">1964</option>
-							<option value="1965">1965</option>
-							<option value="1966">1966</option>
-							<option value="1967">1967</option>
-							<option value="1968">1968</option>
-							<option value="1969">1969</option>
-							<option value="1970">1970</option>
-							<option value="1971">1971</option>
-							<option value="1972">1972</option>
-							<option value="1973">1973</option>
-							<option value="1974">1974</option>
-							<option value="1975">1975</option>
-							<option value="1976">1976</option>
-							<option value="1977">1977</option>
-							<option value="1978">1978</option>
-							<option value="1979">1979</option>
-							<option value="1980">1980</option>
-							<option value="1981">1981</option>
-							<option value="1982">1982</option>
-							<option value="1983">1983</option>
-							<option value="1984">1984</option>
-							<option value="1985">1985</option>
-							<option value="1986">1986</option>
-							<option value="1987">1987</option>
-							<option value="1988">1988</option>
-							<option value="1989">1989</option>
-							<option value="1990">1990</option>
-							<option value="1991">1991</option>
-							<option value="1992">1992</option>
-							<option value="1993">1993</option>
-							<option value="1994">1994</option>
-							<option value="1995">1995</option>
-							<option value="1996">1996</option>
-							<option value="1997">1997</option>
-							<option value="1998">1998</option>
-							<option value="1999">1999</option>
-							<option value="2000">2000</option>
-							<option value="2001">2001</option>
-							<option value="2002">2002</option>
-							<option value="2003">2003</option>
-							<option value="2004">2004</option>
-							<option value="2005">2005</option>
-							<option value="2006">2006</option>
-							<option value="2007">2007</option>
-							<option value="2008">2008</option>
-							<option value="2009">2009</option>
-							<option value="2010">2010</option>
-							<option value="2011">2011</option>
-							<option value="2012">2012</option>
-							<option value="2013">2013</option>
-							<option value="2014">2014</option>
-							<option value="2015">2015</option>
-							<option value="2016">2016</option>
-							<option value="2017">2017</option>
-							<option value="2018">2018</option>
-							<option value="2019">2019</option>
-						</select>
-		</td></tr>
-		</tbody></table>
-	</td>
-	</tr>
-	
-	<tr><td colspan="4"><hr class="more-info"></td></tr>
-	
-	
-	<tr><td colspan="4"><hr class="more-info"></td></tr>
-	
-	<tr><td><span class="note"><label>UPPER SECONDARY</label></span></td></tr>
-	<tr><td colspan="2">
-		<table>
-		<tbody><tr><td class="academic_level" colspan="2">
-		<label>SC/GCE O L/IGCSE<br></label>		
-		
-		YEAR :
-		<select name="jobseeker_sc_year" class="select-box-year"><option value="">Year</option>
+		<tbody><tr><td colspan="2" class="academic_level"><label>HSC/GCE A Level<br></label></td></tr>
+		<tr><td class="academic_result">
+		</td><td>
+		YEAR : <select name="jobseeker_hsc_year" class="select-box-year"><option value="">Year</option>
 					<option value="1950">1950</option>
 					<option value="1951">1951</option>
 					<option value="1952">1952</option>
@@ -263,69 +168,217 @@ else{function NOclickNN(e){if(document.layers||document.getElementById&&!documen
 					<option value="2018">2018</option>
 					<option value="2019">2019</option>
 				</select>
-	
-
-		<table class="form"><tr>
-					<td><label>Subject1:</label></td>
+		</td></tr></tbody></table>
+	</td></tr>
+	<tr><td colspan="2">
+		<table class="academic_class" width="800" height="130">
+		<tbody><tr>
+		
+			<td><label>Subject1(Main):</label></td>
 					<td><input type="text" name="Subject1" id="Subject1"></td>
 					<td><label>Grade 1:</label></td>
 					<td><input type="text" name="Grade1" id="Grade1"></td>
 				
-					<td><label>Subject2:</label></td>
+					<td><label>Subject2(Main):</label></td>
 					<td><input type="text" name="Subject2" id="Subject2"></td>
 					<tr><td><label>Grade 2:</label></td>
 					<td><input type="text" name="Grade2" id="Grade2"></td>
 					<br></br>
 					
-					<td><label>Subject3:</label></td>
+					<td><label>Subject3(Main):</label></td>
 					<td><input type="text" name="Subject3" id="Subject3"></td>
 					<tr><td><label>Grade 3:</label></td>
 					<td><input type="text" name="Grade3" id="Grade3"></td>
 					
-					<td><label>Subject4:</label></td>
+					<td><label>Subject4(Sub):</label></td>
 					<td><input type="text" name="Subject4" id="Subject4"></td>
 					<tr><td><label>Grade 4:</label></td>
 					<td><input type="text" name="Grade4" id="Grade4"></td>
 					
-					<td><label>Subject5:</label></td>
+					<td><label>Subject5(Sub):</label></td>
 					<td><input type="text" name="Subject5" id="Subject5"></td>
 					<tr><td><label>Grade 5:</label></td>
 					<td><input type="text" name="Grade5" id="Grade5"></td>
 					
-					<td><label>Subject6:</label></td>
-					<td><input type="text" name="Subject6" id="Subject6"></td>
-					<tr><td><label>Grade 6:</label></td>
-					<td><input type="text" name="Grade6" id="Grade6"></td>
 					
-					<td><label>Subject7:</label></td>
-					<td><input type="text" name="Subject7" id="Subject7"></td>
-					<tr><td><label>Grade 7:</label></td>
-					<td><input type="text" name="Grade7" id="Grade7"></td>
-					
-					<td><label>Subject8:</label></td>
-					<td><input type="text" name="Subject8" id="Subject8"></td>
-					<tr><td><label>Grade 8:</label></td>
-					<td><input type="text" name="Grade8" id="Grade8"></td>
-					
-					<td><label>Subject9:</label></td>
-					<td><input type="text" name="Subject9" id="Subject9"></td>
-					<tr><td><label>Grade 9:</label></td>
-					<td><input type="text" name="Grade9" id="Grade9"></td>
-					
-					<td><label>Subject10:</label></td>
-					<td><input type="text" name="Subject10" id="Subject10"></td>
-					<tr><td><label>Grade 10:</label></td>
-					<td><input type="text" name="Grade10" id="Grade10"></td>
-					
-				</table>
-			</td>
-			</td>
-				</tr></tbody></table>
+						</tr></tbody></table>
+	</td></tr>
+	
+	<tr><td colspan="4"><hr class="more-info"></td></tr>
+	
+	<tr><td colspan="2">
+		<table border="0">
+		<tbody><tr><td class="academic_level" colspan="2">
+		<label>Tertiary<br></label> </td></tr>
+		<tr><td class="academic_result">
+		</td><td>
+		START YEAR :
+		<select name="jobseeker_bac_year" id="start_year" class="select-box-year"><option value="">Year</option>
+					<option value="1950">1950</option>
+					<option value="1951">1951</option>
+					<option value="1952">1952</option>
+					<option value="1953">1953</option>
+					<option value="1954">1954</option>
+					<option value="1955">1955</option>
+					<option value="1956">1956</option>
+					<option value="1957">1957</option>
+					<option value="1958">1958</option>
+					<option value="1959">1959</option>
+					<option value="1960">1960</option>
+					<option value="1961">1961</option>
+					<option value="1962">1962</option>
+					<option value="1963">1963</option>
+					<option value="1964">1964</option>
+					<option value="1965">1965</option>
+					<option value="1966">1966</option>
+					<option value="1967">1967</option>
+					<option value="1968">1968</option>
+					<option value="1969">1969</option>
+					<option value="1970">1970</option>
+					<option value="1971">1971</option>
+					<option value="1972">1972</option>
+					<option value="1973">1973</option>
+					<option value="1974">1974</option>
+					<option value="1975">1975</option>
+					<option value="1976">1976</option>
+					<option value="1977">1977</option>
+					<option value="1978">1978</option>
+					<option value="1979">1979</option>
+					<option value="1980">1980</option>
+					<option value="1981">1981</option>
+					<option value="1982">1982</option>
+					<option value="1983">1983</option>
+					<option value="1984">1984</option>
+					<option value="1985">1985</option>
+					<option value="1986">1986</option>
+					<option value="1987">1987</option>
+					<option value="1988">1988</option>
+					<option value="1989">1989</option>
+					<option value="1990">1990</option>
+					<option value="1991">1991</option>
+					<option value="1992">1992</option>
+					<option value="1993">1993</option>
+					<option value="1994">1994</option>
+					<option value="1995">1995</option>
+					<option value="1996">1996</option>
+					<option value="1997">1997</option>
+					<option value="1998">1998</option>
+					<option value="1999">1999</option>
+					<option value="2000">2000</option>
+					<option value="2001">2001</option>
+					<option value="2002">2002</option>
+					<option value="2003">2003</option>
+					<option value="2004">2004</option>
+					<option value="2005">2005</option>
+					<option value="2006">2006</option>
+					<option value="2007">2007</option>
+					<option value="2008">2008</option>
+					<option value="2009">2009</option>
+					<option value="2010">2010</option>
+					<option value="2011">2011</option>
+					<option value="2012">2012</option>
+					<option value="2013">2013</option>
+					<option value="2014">2014</option>
+					<option value="2015">2015</option>
+					<option value="2016">2016</option>
+					<option value="2017">2017</option>
+					<option value="2018">2018</option>
+					<option value="2019">2019</option>
+				</select>
+				
+		END YEAR :
+		<select name="jobseeker_bac_year" id="end_year" class="select-box-year"><option value="">Year</option>
+					<option value="1950">1950</option>
+					<option value="1951">1951</option>
+					<option value="1952">1952</option>
+					<option value="1953">1953</option>
+					<option value="1954">1954</option>
+					<option value="1955">1955</option>
+					<option value="1956">1956</option>
+					<option value="1957">1957</option>
+					<option value="1958">1958</option>
+					<option value="1959">1959</option>
+					<option value="1960">1960</option>
+					<option value="1961">1961</option>
+					<option value="1962">1962</option>
+					<option value="1963">1963</option>
+					<option value="1964">1964</option>
+					<option value="1965">1965</option>
+					<option value="1966">1966</option>
+					<option value="1967">1967</option>
+					<option value="1968">1968</option>
+					<option value="1969">1969</option>
+					<option value="1970">1970</option>
+					<option value="1971">1971</option>
+					<option value="1972">1972</option>
+					<option value="1973">1973</option>
+					<option value="1974">1974</option>
+					<option value="1975">1975</option>
+					<option value="1976">1976</option>
+					<option value="1977">1977</option>
+					<option value="1978">1978</option>
+					<option value="1979">1979</option>
+					<option value="1980">1980</option>
+					<option value="1981">1981</option>
+					<option value="1982">1982</option>
+					<option value="1983">1983</option>
+					<option value="1984">1984</option>
+					<option value="1985">1985</option>
+					<option value="1986">1986</option>
+					<option value="1987">1987</option>
+					<option value="1988">1988</option>
+					<option value="1989">1989</option>
+					<option value="1990">1990</option>
+					<option value="1991">1991</option>
+					<option value="1992">1992</option>
+					<option value="1993">1993</option>
+					<option value="1994">1994</option>
+					<option value="1995">1995</option>
+					<option value="1996">1996</option>
+					<option value="1997">1997</option>
+					<option value="1998">1998</option>
+					<option value="1999">1999</option>
+					<option value="2000">2000</option>
+					<option value="2001">2001</option>
+					<option value="2002">2002</option>
+					<option value="2003">2003</option>
+					<option value="2004">2004</option>
+					<option value="2005">2005</option>
+					<option value="2006">2006</option>
+					<option value="2007">2007</option>
+					<option value="2008">2008</option>
+					<option value="2009">2009</option>
+					<option value="2010">2010</option>
+					<option value="2011">2011</option>
+					<option value="2012">2012</option>
+					<option value="2013">2013</option>
+					<option value="2014">2014</option>
+					<option value="2015">2015</option>
+					<option value="2016">2016</option>
+					<option value="2017">2017</option>
+					<option value="2018">2018</option>
+					<option value="2019">2019</option>
+				</select>
+				
+		</td></tr>
+		</tbody></table>
+	</td></tr><tr><td colspan="2">
+		<table class="academic_class" border="0">
+		<tbody><tr>
+		<td width="150">Course name</td>
+		<td><input type="text" name="course_name" id="course_name"></td>
+		<td>
+		
+		</td></tr>
+		<tr><td>Qualification</td>
+		<td><input type="text" name="qualification" id="qualification"></td>
+		<td>
+		</td></tr></tbody></table>
 	</td></tr>
 	
 	<tr><td colspan="2" align="center">
-	<input type="button" value="Back" onclick="window.location.href='job'" class="submit-btn" title="Back">
-	<input type="submit" value="Proceed to Secondary Education" class="submit-btn" name="add_academic" title="Proceed to Secondary Education">
+	<input type="button" value="Back" onclick="window.location.href='academic'" class="submit-btn" title="Back">
+	<input type="submit" value="Proceed to Experience" class="submit-btn" name="add_secondary" title="Proceed to Experience">
 	</td></tr>
 	</tbody></table>
 </form></div>
@@ -375,4 +428,4 @@ else{function NOclickNN(e){if(document.layers||document.getElementById&&!documen
 </div>
 
 
-</body></html>
+</body>
